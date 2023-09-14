@@ -47,6 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+data/
+images/
 
 #scrap file for testing code
 test.R
