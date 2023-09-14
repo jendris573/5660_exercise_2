@@ -1,1 +1,2 @@
-# exercise_2
+# BIOL_5660
+Materials for BIOL 5660
